@@ -1,0 +1,85 @@
+{
+  "common": {
+    "brand": "E-Kart",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "menu": "Menu",
+    "search": "Search",
+    "sort": "Sort",
+    "aToZ": "Name: A to Z",
+    "zToA": "Name: Z to A",
+    "lowToHigh": "Price: Low to High",
+    "highToLow": "Price: High to Low",
+    "user": "User",
+    "dearUser": "Dear User",
+    "login": "Login",
+    "signup": "Signup",
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "register": "Register",
+    "logout": "Logout",
+    "cart": "Cart",
+    "quantity": "Qty",
+    "price": "price",
+    "total": "Total",
+    "success": "Success",
+    "error": "Error",
+    "attention": "Attention",
+    "pluralizationExample": {
+      "one": "You have 1 item",
+      "other": "You have %{count} items",
+      "zero": "You cart is empty"
+    }
+  },
+  "errors": {
+    "genericError": "Something went wrong! Please try again."
+  },
+  "cartScreen": {
+    "appbarTitle": "Cart",
+    "guestUserPromptMessage": "In order to view cart, please login or create new account",
+    "cartEmptyTitle": "Hey, it feels so light!",
+    "cartEmptyMessage": "There is nothing in your bag. Let's add some items.",
+    "placeOrderButton": "Place Order"
+  },
+  "categoriesScreen": {
+    "appbarTitle": "Category"
+  },
+  "homeScreen": {
+    "appbarTitle": "Home"
+  },
+  "loginScreen": {
+    "appbarTitle": "Login",
+    "noAccount": "Don't have account? SignUp",
+    "successMessage": "Login Successful"
+  },
+  "productDetailsScreen": {
+    "appbarTitle": "Product Details",
+    "addToCart": "Add To Cart",
+    "guestUserPromptMessage": "In order to add product to cart, please login or create new account",
+    "productTypeNotSupported": "Currently only Simple & grouped product types are supported",
+    "addToCartSuccessful": "Product added to cart",
+    "addToCartError": "Unable to add product to cart, something went wrong.",
+    "select": "Select %{label}"
+  },
+  "productListScreen": {
+    "appbarTitle": "Products"
+  },
+  "profileScreen": {
+    "appbarTitle": "Profile",
+    "guestUserPromptMessage": "In order to view profile, please login or create new account",
+    "greeting": "Welcome %{name}"
+  },
+  "searchScreen": {
+    "searchBarHint": "Search product by name...",
+    "noProductsFound": "We couldn't found any products matching %{searchText}"
+  },
+  "signupScreen": {
+    "appbarTitle": "Signup",
+    "haveAccount": "Aldready have an account? Login",
+    "successMessage": "Account created successfully! Please Login to continue."
+  }
+}
